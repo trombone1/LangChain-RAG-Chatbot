@@ -13,7 +13,7 @@ load_dotenv()
 #def main_place(message="The Task Is Finished !!!!"):
   # main_placeholder.text(message)
 token=os.getenv("API_KEY")
-token='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'
+token=''
 # Memory management functions
 #def clear_gpu_memory():
     #torch.cuda.empty_cache()
